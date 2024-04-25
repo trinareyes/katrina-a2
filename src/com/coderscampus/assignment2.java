@@ -8,7 +8,7 @@ public class assignment2 {
 		Random random = new Random();
 		Scanner scanner = new Scanner(System.in);
 		int rNumber = random.nextInt(100 + 1);
-		System.out.println(rNumber);
+	
 		
 		System.out.println("Welcome to the numbers game. Choose a number between 1 and 100!");
 
